@@ -1,4 +1,3 @@
-const randomString = require('../index');
 const randomStrings = require('../index');
 
 describe('Probar funcionalidades de randomStrings', () => {
